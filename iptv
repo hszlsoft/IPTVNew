@@ -1,6 +1,18 @@
-📺熙芮频道,#genre#
+🐼 直播中国 / 熊猫频道,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+熊猫频道,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+都江堰青青,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+都江堰妃妃,http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
+都江堰娅祥,http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
+都江堰瑞瑞,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
+都江堰英英,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+都江堰水秀,http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
+都江堰神树坪①,http://gcalic.v.myalicdn.com/gc/xiongmao25_1/index.m3u8
+都江堰神树坪②,http://gcalic.v.myalicdn.com/gc/xiongmao26_1/index.m3u8
+基地幼年园①,http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
+基地幼年园②,http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
+基地母子园①,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
+成都高清,http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
 
 🇭🇰 香港频道,#genre#
 港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -17,11 +29,27 @@ HOY TV,https://media.fantv.hk/m3u8/archive/channel2.m3u8
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB新闻台,https://tvp22.sky4k.top/index1.php
 TVB财经资讯台,https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 
 🇲🇴 澳门频道,#genre#
+澳视澳门 (TDM Ou Mun),https://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+澳视澳门,http://61.244.22.4/ch1/ch1.live/playlist.m3u8
+澳视葡文 (Canal Macau),https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+澳门-Macau,https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+澳门体育,https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+澳门资讯,https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+澳门综艺,https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+立法会直播,https://live3.tdm.com.mo/tv/ch21.live/playlist.m3u8
 澳门直播列表,https://iptv-org.github.io/iptv/countries/mo.m3u
 
 🇹🇼 台湾频道,#genre#
+Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+CGNTV Chinese,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+GOOD TV CH1 综合台,https://live.streamingfast.net/osmflivech1.m3u8
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 台湾直播列表,https://iptv-org.github.io/iptv/countries/tw.m3u
 
 🇺🇸 美国频道,#genre#
@@ -50,3 +78,15 @@ TVB财经资讯台,https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m
 
 🇦🇺 澳大利亚频道,#genre#
 澳大利亚直播列表,https://iptv-org.github.io/iptv/countries/au.m3u
+
+🌍 推荐公开订阅源（可直接导入）,#genre#
+iptv-org 全球,https://iptv-org.github.io/iptv/index.m3u
+iptv-org 中国,https://iptv-org.github.io/iptv/countries/cn.m3u
+iptv-org 香港,https://iptv-org.github.io/iptv/countries/hk.m3u
+ChinaIPTV 自动更新,https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
+fanmingming 直播,https://live.fanmingming.com/tv/m3u/ipv6.m3u
+CCSH 直播源,https://raw.githubusercontent.com/CCSH/IPTV/main/live.txt
+vbskycn IPTV4,https://live.zbds.top/tv/iptv4.txt
+vbskycn IPTV6,https://live.zbds.top/tv/iptv6.txt
+Collect-IPTV,https://raw.githubusercontent.com/zilong7728/Collect-IPTV/main/best_sorted.m3u
+DailyIPTV 验证列表,https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_validated.m3u
