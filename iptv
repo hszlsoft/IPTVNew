@@ -52,31 +52,59 @@ GOOD TV CH1 综合台,https://live.streamingfast.net/osmflivech1.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 台湾直播列表,https://iptv-org.github.io/iptv/countries/tw.m3u
 
-🇺🇸 美国频道,#genre#
-美国直播列表,https://iptv-org.github.io/iptv/countries/us.m3u
-
-🇬🇧 英国频道,#genre#
-英国直播列表,https://iptv-org.github.io/iptv/countries/gb.m3u
-
 🇯🇵 日本频道,#genre#
+NHK World-Japan,https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+NHK World-Japan,https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+NHK World Premium,https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+QVC Japan,https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
+Weathernews,https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+CGNTV Japan,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 日本直播列表,https://iptv-org.github.io/iptv/countries/jp.m3u
 
 🇰🇷 韩国频道,#genre#
+Arirang,https://amdlive-ch01-cdn.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2003453/kbsworld/master.m3u8
+YTN,https://ytn-aljazeera-live.akamaized.net/hls/live/2007999/ytn/master.m3u8
 韩国直播列表,https://iptv-org.github.io/iptv/countries/kr.m3u
 
 🇸🇬 新加坡频道,#genre#
+CNA (Channel NewsAsia),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 新加坡直播列表,https://iptv-org.github.io/iptv/countries/sg.m3u
 
+🇺🇸 美国频道,#genre#
+NASA TV Public,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+NASA TV Media,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+Bloomberg,https://bloomberg.com/media-manifest/streams/us.m3u8
+PBS,https://pbs-hls.stream.pbs.org/out/v1/2b1a3c0e8f9a4d5b9c7e6f0a1b2c3d4e/index.m3u8
+C-SPAN,https://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+美国直播列表,https://iptv-org.github.io/iptv/countries/us.m3u
+
+🇬🇧 英国频道,#genre#
+BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+Sky News,https://skynewsau-i.akamaihd.net/hls/live/2002846/skynewsauallout/master.m3u8
+英国直播列表,https://iptv-org.github.io/iptv/countries/gb.m3u
+
 🇫🇷 法国频道,#genre#
+France 24 English,https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+France 24 French,https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+France 24 Arabic,https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+TV5Monde Info,https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 法国直播列表,https://iptv-org.github.io/iptv/countries/fr.m3u
 
 🇩🇪 德国频道,#genre#
+Deutsche Welle English,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+Deutsche Welle German,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 德国直播列表,https://iptv-org.github.io/iptv/countries/de.m3u
 
 🇨🇦 加拿大频道,#genre#
+CBC News Network,https://cbcrbclive.akamaized.net/hls/live/2043360/cbcrbc_news/master.m3u8
 加拿大直播列表,https://iptv-org.github.io/iptv/countries/ca.m3u
 
 🇦🇺 澳大利亚频道,#genre#
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+Sky News Australia,https://skynewsau-i.akamaihd.net/hls/live/2002846/skynewsauallout/master.m3u8
 澳大利亚直播列表,https://iptv-org.github.io/iptv/countries/au.m3u
 
 🌍 推荐公开订阅源（可直接导入）,#genre#
