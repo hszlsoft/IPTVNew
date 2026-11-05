@@ -3,7 +3,20 @@
 🐼直播熊猫🥇,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
 🇭🇰 香港频道,#genre#
-香港直播列表,https://iptv-org.github.io/iptv/countries/hk.m3u
+港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+港台电视31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream1/streamPlaylist.m3u8
+港台电视32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+港台电视32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+港台电视34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+港台电视35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+HOY TV,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+HOY TV,https://media.fantv.hk/m3u8/archive/channel2.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB新闻台,https://tvp22.sky4k.top/index1.php
+TVB财经资讯台,https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
 
 🇲🇴 澳门频道,#genre#
 澳门直播列表,https://iptv-org.github.io/iptv/countries/mo.m3u
